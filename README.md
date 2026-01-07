@@ -37,11 +37,12 @@ App-kan waa **Course Online Application** lagu dhisay **Flutter**, ujeedadiisuna
 lib/
  ├── main.dart
  └── screens/
-      ├── splash_screen.dart
-      ├── login_screen.dart
-      ├── register_screen.dart
-      ├── home_screen.dart
-      ├── courses_screen.dart
-      ├── course_details_screen.dart
-      ├── my_courses_screen.dart
-      └── profile_screen.dart
+      ├── -splash_screen.dart
+      ├── -login_screen.dart
+      ├── -register_screen.dart
+      ├── -home_screen.dart
+      ├── -courses_screen.dart
+      ├── -course_details_screen.dart
+      ├── -my_courses_screen.dart
+      └── -profile_screen.dart
+
