@@ -23,13 +23,13 @@ App-kan waa **Course Online Application** lagu dhisay **Flutter**, ujeedadiisuna
 
 ## 🎨 Figma Design
 👉 Figma design-ka app-ka waxaa laga heli karaa link-kan:  
-**[Ku dar Figma Link halkan]**
+**https://www.figma.com/design/We7pPWuMMyJgTzDAEHGgca/online-course-rejistration?node-id=0-1&p=f&t=wJoAOJrKk2u6jty6-0**
 
 ---
 
 ## 📊 Presentation (PPT)
 👉 Presentation-ka project-kan (PPT):  
-**(https://www.figma.com/design/We7pPWuMMyJgTzDAEHGgca/online-course-rejistration?node-id=0-1&p=f&t=wJoAOJrKk2u6jty6-0)**
+**(file ka pptga waxa u yala kor)**
 
 ---
 
@@ -45,4 +45,5 @@ lib/
       ├── -course_details_screen.dart
       ├── -my_courses_screen.dart
       └── -profile_screen.dart
+
 
